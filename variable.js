@@ -17,4 +17,10 @@
 //6: Keywords can not be used as a variable names.
 
 
+// const a = 10;
+// const b = 20;
+
+// const c = a+b;
+// console.log(c)
+
 
